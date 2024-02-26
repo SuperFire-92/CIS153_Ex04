@@ -1,0 +1,10 @@
+C:\Users\Nick\Documents\College\GitHub\CIS153\CIS153_Ex04\CIS153_02-25-2024_ListsObjects\CIS153_02-25-2024_ListsObjects\bin\Debug\CIS153_02-25-2024_ListsObjects.exe.config
+C:\Users\Nick\Documents\College\GitHub\CIS153\CIS153_Ex04\CIS153_02-25-2024_ListsObjects\CIS153_02-25-2024_ListsObjects\bin\Debug\CIS153_02-25-2024_ListsObjects.exe
+C:\Users\Nick\Documents\College\GitHub\CIS153\CIS153_Ex04\CIS153_02-25-2024_ListsObjects\CIS153_02-25-2024_ListsObjects\bin\Debug\CIS153_02-25-2024_ListsObjects.pdb
+C:\Users\Nick\Documents\College\GitHub\CIS153\CIS153_Ex04\CIS153_02-25-2024_ListsObjects\CIS153_02-25-2024_ListsObjects\obj\Debug\CIS153_02-25-2024_ListsObjects.csproj.AssemblyReference.cache
+C:\Users\Nick\Documents\College\GitHub\CIS153\CIS153_Ex04\CIS153_02-25-2024_ListsObjects\CIS153_02-25-2024_ListsObjects\obj\Debug\CIS153_02_25_2024_ListsObjects.Form1.resources
+C:\Users\Nick\Documents\College\GitHub\CIS153\CIS153_Ex04\CIS153_02-25-2024_ListsObjects\CIS153_02-25-2024_ListsObjects\obj\Debug\CIS153_02_25_2024_ListsObjects.Properties.Resources.resources
+C:\Users\Nick\Documents\College\GitHub\CIS153\CIS153_Ex04\CIS153_02-25-2024_ListsObjects\CIS153_02-25-2024_ListsObjects\obj\Debug\CIS153_02-25-2024_ListsObjects.csproj.GenerateResource.cache
+C:\Users\Nick\Documents\College\GitHub\CIS153\CIS153_Ex04\CIS153_02-25-2024_ListsObjects\CIS153_02-25-2024_ListsObjects\obj\Debug\CIS153_02-25-2024_ListsObjects.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Documents\College\GitHub\CIS153\CIS153_Ex04\CIS153_02-25-2024_ListsObjects\CIS153_02-25-2024_ListsObjects\obj\Debug\CIS153_02-25-2024_ListsObjects.exe
+C:\Users\Nick\Documents\College\GitHub\CIS153\CIS153_Ex04\CIS153_02-25-2024_ListsObjects\CIS153_02-25-2024_ListsObjects\obj\Debug\CIS153_02-25-2024_ListsObjects.pdb
